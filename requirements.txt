@@ -1,0 +1,4 @@
+spotipy
+textblob
+client_id="5e3917ad06714e5194d003ca153c6ceb"
+client_secret="c831572b16c84261bce92ba1f4a59ed6"
